@@ -1,0 +1,29 @@
+
+
+h1{
+    width: 100%;
+    /* display: flex; */
+    text-align: center;
+    color: black;
+
+}
+h2{
+    width: 100%;
+    text-align: center;
+    color: black;
+}
+
+img{
+    height: 400px;
+}
+/* button{
+    display: flex;
+    align-items: center;
+  
+    
+    
+} */
+
+/* img{
+    height: 400px;
+} */
